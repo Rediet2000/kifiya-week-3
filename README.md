@@ -1,5 +1,7 @@
-Insurance Analysis Project - Week 2
+Insurance Analysis Project - Week 3
+
 Project Description
+
 This project involves analyzing an insurance dataset using Exploratory Data Analysis (EDA) techniques. The goal is to extract insights, perform statistical analysis, and understand relationships between variables such as insurance premiums, claims, and customer demographics. The analysis will be hosted on GitHub, using Git for version control and GitHub Actions for CI/CD.
 
 Technologies Used
