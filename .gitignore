@@ -1,3 +1,2 @@
-.\.vscode
-.\.venv
-./scored_user_data.csv
+.venv
+data/*
